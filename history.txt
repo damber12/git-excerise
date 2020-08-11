@@ -1,6 +1,6 @@
-# create the project 
+# create the project - mrdir 
 
-# initialize the repository 
+# initialize the repository - git init
 
 # track my file- get status
 
@@ -10,4 +10,12 @@
 
 # add remote control git remote add orgin add "url
 
-#
+# push the changes - git push -u orgin master
+
+# Track my files
+
+# add files 
+
+#commit files
+
+#push file
