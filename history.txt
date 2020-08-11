@@ -1,0 +1,13 @@
+# create the project 
+
+# initialize the repository 
+
+# track my file- get status
+
+# Add files- git add (file)
+
+# commit those file - fir commit -m "message"
+
+# add remote control git remote add orgin add "url
+
+#
